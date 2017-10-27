@@ -92,7 +92,7 @@
     "weather-icons": "^2.0.10",
     "x-editable": "^1.5.1",
     "jvectormap": "^2.0.4",
-    "jquery-sparklines": "^2.1.2",
+    "jquery-sparklines": "~2.1.2",
     "bootbox.js": "~4.4.0",
     "jquery-table2excel": "^1.0.4"
   },
